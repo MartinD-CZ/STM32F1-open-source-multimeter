@@ -16,4 +16,4 @@ Additional features: hold function (freezes the display); isolated USB connectio
 2. adjusted current ranges to ±200 mA or ±2 A, lowered burden voltage
 3. other minor tweaks and improvements
 
-![Revision 1.3 board](dmm_rev1.3.JPG)
+![Revision 1.3 board](dmm_rev13.JPG)
