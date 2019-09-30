@@ -1,0 +1,14 @@
+--cpu=Cortex-M4.fp
+".\objects\main.o"
+".\objects\init.o"
+".\objects\5110.o"
+".\objects\delay.o"
+".\objects\uart.o"
+".\objects\i2c.o"
+".\objects\at24c.o"
+".\objects\startup_stm32f373xc.o"
+".\objects\system_stm32f3xx.o"
+--strict --scatter ".\Objects\OL_DVM_v14.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\OL_DVM_v14.map" -o .\Objects\OL_DVM_v14.axf

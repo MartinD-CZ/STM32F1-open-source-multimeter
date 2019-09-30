@@ -1,0 +1,11 @@
+TIMER MAP:
+- timer 2_ frequency counting
+- timer 3: screen update
+- timer 4: delay
+
+INTERRUPT (priority) MAP:
+- EXTI15_10 (7) - buttons
+- DMA2_Channel3 - SDADC data transfer
+- TIM3 - screen update
+
+DMA MAP:

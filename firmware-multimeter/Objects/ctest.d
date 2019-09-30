@@ -1,0 +1,14 @@
+.\objects\ctest.o: ctest.cpp
+.\objects\ctest.o: C:\Keil_v5\ARM\PACK\Keil\STM32F3xx_DFP\1.3.0\Device\Include\stm32f3xx.h
+.\objects\ctest.o: C:\Keil_v5\ARM\PACK\Keil\STM32F3xx_DFP\1.3.0\Device\Include\stm32f373xc.h
+.\objects\ctest.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm4.h
+.\objects\ctest.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ctest.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h
+.\objects\ctest.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h
+.\objects\ctest.o: C:\Keil_v5\ARM\PACK\Keil\STM32F3xx_DFP\1.3.0\Device\Include\system_stm32f3xx.h
+.\objects\ctest.o: config.h
+.\objects\ctest.o: ctest.h
+.\objects\ctest.o: delay.h
+.\objects\ctest.o: adc.h
+.\objects\ctest.o: uart.h
+.\objects\ctest.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
